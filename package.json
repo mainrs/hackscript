@@ -1,0 +1,10 @@
+{
+  "name": "hackscript",
+  "version": "1.0.0",
+  "description": "A tool for writing scripts in JS with sensible default frameworks",
+  "main": "index.js",
+  "repository": "https://github.com/SirWindfield/hs",
+  "author": "SirWindfield <SirWindfield@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}

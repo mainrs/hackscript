@@ -5,6 +5,18 @@ __metadata:
   version: 4
   cacheKey: 7
 
+"@sirwindfield/hackscript@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@sirwindfield/hackscript@workspace:."
+  dependencies:
+    arg: ^5.0.0
+    chalk: ^4.1.1
+    enquirer: ^2.3.6
+  bin:
+    hs: src/main.mjs
+  languageName: unknown
+  linkType: soft
+
 "ansi-colors@npm:^4.1.1":
   version: 4.1.1
   resolution: "ansi-colors@npm:4.1.1"
@@ -62,18 +74,6 @@ __metadata:
   checksum: e249bb97bf7d5a91d51081547ea5aa1d849604e5de74feff2c48f7174fc6c9dfcfeea42ef5536e9a3be58964a248c322d6897269ae7bba3e1b6d24f152d9d685
   languageName: node
   linkType: hard
-
-"hackscript@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "hackscript@workspace:."
-  dependencies:
-    arg: ^5.0.0
-    chalk: ^4.1.1
-    enquirer: ^2.3.6
-  bin:
-    hs: src/main.mjs
-  languageName: unknown
-  linkType: soft
 
 "has-flag@npm:^4.0.0":
   version: 4.0.0

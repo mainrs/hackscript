@@ -2,9 +2,20 @@
   "name": "hackscript",
   "version": "1.0.0",
   "description": "A tool for writing scripts in JS with sensible default frameworks",
-  "main": "index.js",
+  "main": "src/main.js",
   "repository": "https://github.com/SirWindfield/hs",
+  "type": "module",
   "author": "SirWindfield <SirWindfield@users.noreply.github.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "bin": {
+    "hs": "src/main.mjs"
+  },
+  "scripts": {
+    "r": "node src/main.mjs"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "enquirer": "^2.3.6"
+  }
 }

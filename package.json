@@ -25,6 +25,7 @@
   "dependencies": {
     "arg": "^5.0.0",
     "chalk": "^4.1.1",
-    "enquirer": "^2.3.6"
+    "enquirer": "^2.3.6",
+    "open": "^8.0.8"
   }
 }

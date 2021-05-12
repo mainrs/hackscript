@@ -1,6 +1,6 @@
 {
   "name": "@sirwindfield/hackscript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool for writing scripts in JS with sensible default frameworks",
   "main": "src/main.mjs",
   "repository": "https://github.com/SirWindfield/hackscript.git",

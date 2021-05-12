@@ -2,7 +2,7 @@
 
 > A tool for writing scripts in JS with sensible default frameworks.
 
-Inspired by [zx](https://github.com/google/zx), `hackscript` is a version that is specifically tailored towards me and my needs.
+Inspired by [zx](https://github.com/google/zx), `hackscript` is a version that is specifically tailored towards me and my needs. An example script per API functionality has been added under the `tests` folder.
 
 ## Differences
 

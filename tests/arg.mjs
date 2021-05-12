@@ -1,3 +1,5 @@
+#!/usr/bin/env hs
+
 const argv = ['-AAAA', '-BBBB'];
 const parsed = arg({
     '-A': arg.COUNT,

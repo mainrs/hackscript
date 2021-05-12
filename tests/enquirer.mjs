@@ -1,3 +1,5 @@
+#!/usr/bin/env hs
+
 const question = {
     type: 'confirm',
     name: 'sunny',

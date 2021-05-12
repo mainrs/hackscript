@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { arg, chalk, prompt } from './api.mjs'
 import { resolve } from 'path'
 
